@@ -1,0 +1,3 @@
+Simula um pequeno ecommerce ainda sem conhecimento de SQL feito em C utilizando alguns recursos de C++, possui a logica de verificação de CPF e Cartão de Credito, possui a logica de adicionar produtos ao programa,quando adicionado no carrinho tirar a quantidade do produto,
+não é possivel tirar um produto com estoque, diversas logicas para que funcione perfeitamente, possui um historico de compras que registra produtos comprados, cartão utilizado, nome, cpf, valores etc.
+foi feito como segundo trabalho da primeira disciplina de programação. Recebi nota máxima pois cumpri com todos os requisitos do trabalho e todas as verificaçoes.
